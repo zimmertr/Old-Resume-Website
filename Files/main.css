@@ -1,0 +1,123 @@
+/* The main body text */
+body{
+    width: 615px;
+    font-size: 16px;
+    margin: 0 auto;
+    margin-bottom: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: #a3c2c2;
+    
+}
+/* The main header */
+body > h1{
+    padding: 0.666em 0em;
+    font-size: 30px;
+    margin-bottom: -10px;
+    width: 615px;
+    text-align: center;
+
+}
+
+/* We add a bit of white drop shadow just to make the blue a bit easier to read. */
+body > h1 > a > h2 > h4 {
+    text-shadow: #FFF 0 0 0.025em;
+}
+
+h1, h2{
+    clear: left;
+    font-weight: bold;
+    margin: 0;
+    text-align: center;
+}
+
+h4{
+				clear: left;
+				font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:visited {
+    color: #0652ff;
+}
+#spacer{
+    clear: both;
+    height: 0;
+}
+links{
+    line-height: 1.5em;
+    font-size: 16px;
+    list-style-type: none;
+    color: #0652ff;
+    padding: 10.3em;
+}
+h2{
+    font-size: 16px;
+}
+img{
+    border: 1px solid #777777;
+    background-color: #FEF5CA;
+    float: left;
+    margin: 0em;
+    margin-right: 0.5em;
+    padding: 1px;
+}
+p{
+    margin: 0;
+    padding: 0;
+    clear: left;
+    margin-bottom: 1.5em;
+}
+#mainwrapper{
+    background-color: #f9f9f9;
+    width: 100%;
+    padding-bottom: 1.5em;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+#main{
+    padding: 1.5em;
+    padding-bottom: 0;
+    max-width: 35em;
+    line-height: 1.5em;
+    background-color: #f9f9f9;
+}
+#main h1{
+    font-size: 20px;
+    margin-bottom: 1.25em;
+}
+#main ul > li, #main ol > li{
+    line-height: 1.8em;
+}
+#main ul, #main ol{
+    padding: 0;
+    padding-left: 1.5em;
+}
+#footer{
+    padding: 1.5em;
+    clear: both;
+}
+#footer ul{
+    line-height: 1.5em;
+    float: left;
+    font-size: 16px;
+    margin: 0;
+    margin-right: 2em;
+    padding-left: 16.5px;
+    list-style-type: none;
+}
+#footer h1{
+    font-size: 16px;
+    margin-bottom: 0.25em;
+}
+#main h2{
+    font-size: 18px;
+    margin-top: 1.5em;
+}

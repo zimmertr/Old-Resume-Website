@@ -2,9 +2,9 @@
 
 LIVE DEMO: https://tjzimmerman.com/old
 
-This repository contains the source code for my old personal website. It is principly written in HTML and CSS
+This repository contains the source code for an old personal website. It is principly written in HTML and CSS
 
-I made this website while learning about Apache to have an internet-facing home server.
+This website was made while learning about Apache to have an internet-facing home server.
 
 On this website, you'll find information about me as well as links (probably no longer working) to some of my servers and online presences.
 

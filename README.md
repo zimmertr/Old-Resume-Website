@@ -1,4 +1,4 @@
-#Old Resume Website
+# Old Resume Website
 
 LIVE DEMO: https://tjzimmerman.com/old
 

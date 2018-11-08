@@ -1,7 +1,5 @@
 # Old Resume Website
 
-LIVE DEMO: https://tjzimmerman.com/old
-
 This repository contains the source code for an old personal website. It is principly written in HTML and CSS
 
 This website was made while learning about Apache to have an internet-facing home server.
